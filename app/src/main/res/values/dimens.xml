@@ -1,0 +1,153 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_horizontal_padding">16dp</dimen>
+    <dimen name="activity_vertical_padding">10dp</dimen>
+
+
+    <dimen name="size_corner_radius_small">3dp</dimen>
+    <dimen name="size_corner_radius_regular">5dp</dimen>
+    <dimen name="size_corner_radius_medium">8dp</dimen>
+    <dimen name="size_corner_radius_large">10dp</dimen>
+    <dimen name="size_corner_radius_largest">16dp</dimen>
+    <dimen name="size_corner_radius_extra_large">20dp</dimen>
+    <dimen name="size_corner_radius_extra_largex">24dp</dimen>
+    <dimen name="size_corner_radius_extra_largexx">32dp</dimen>
+
+    <dimen name="size_elevation_inset_shadow">1dp</dimen>
+    <dimen name="size_elevation_default">2dp</dimen>
+    <dimen name="size_elevation_item">5dp</dimen>
+    <dimen name="size_elevation_header">6dp</dimen>
+
+    <dimen name="dimen_app_margin_nil">0dp</dimen>
+    <dimen name="dimen_app_margin_small">3dp</dimen>
+    <dimen name="dimen_app_margin_regular">5dp</dimen>
+    <dimen name="dimen_app_margin_medium">8dp</dimen>
+    <dimen name="dimen_app_margin_large">10dp</dimen>
+    <dimen name="dimen_app_margin_largest">16dp</dimen>
+    <dimen name="dimen_app_margin_extra_largest">20dp</dimen>
+    <dimen name="dimen_app_menu_item_margin">32dp</dimen>
+    <dimen name="dimen_vertical_margin">32dp</dimen>
+
+    <dimen name="dimen_dialog_margin_small">16dp</dimen>
+    <dimen name="dimen_dialog_margin_normal">24dp</dimen>
+    <dimen name="dimen_dialog_margin_large">32dp</dimen>
+
+
+    <!--App text Dimen-->
+    <dimen name="size_button_text_small">13sp</dimen>
+    <dimen name="size_button_text_regular">15sp</dimen>
+    <dimen name="size_button_text_medium">17sp</dimen>
+    <dimen name="size_button_text_large">20sp</dimen>
+
+    <dimen name="size_text_label_regular">13sp</dimen>
+    <dimen name="size_text_label_small">11sp</dimen>
+    <dimen name="size_text_very_small">10sp</dimen>
+    <dimen name="size_text_small">12sp</dimen>
+    <dimen name="size_text_regular">14sp</dimen>
+    <dimen name="size_text_medium">17sp</dimen>
+    <dimen name="size_text_large">20sp</dimen>
+    <dimen name="size_text_largest">28sp</dimen>
+
+
+    <dimen name="dimen_app_padding_nil">0dp</dimen>
+    <dimen name="dimen_app_padding_small">3dp</dimen>
+    <dimen name="dimen_app_padding_regular">5dp</dimen>
+    <dimen name="dimen_app_padding_medium">8dp</dimen>
+    <dimen name="dimen_app_padding_large">10dp</dimen>
+    <dimen name="dimen_app_padding_largest">16dp</dimen>
+    <dimen name="dimen_app_padding_extra_largest">20dp</dimen>
+
+    <!--App text Dimen-->
+    <dimen name="size_app_button_text_small">13sp</dimen>
+    <dimen name="size_app_button_text_regular">15sp</dimen>
+    <dimen name="size_app_button_text_medium">17sp</dimen>
+    <dimen name="size_app_button_text_large">20sp</dimen>
+
+    <dimen name="size_app_label_regular">13sp</dimen>
+    <dimen name="size_app_label_small">11sp</dimen>
+    <dimen name="size_app_text_very_small">10sp</dimen>
+    <dimen name="size_app_text_small">12sp</dimen>
+    <dimen name="size_app_text_regular">14sp</dimen>
+    <dimen name="size_app_text_medium">17sp</dimen>
+    <dimen name="size_app_text_large">20sp</dimen>
+    <dimen name="size_app_text_largest">28sp</dimen>
+    <dimen name="size_app_text_large_x">26sp</dimen>
+    <dimen name="size_app_text_large_xx">30sp</dimen>
+    <dimen name="size_app_text_large_xxx">36sp</dimen>
+
+    <dimen name="size_icon_small">18dp</dimen>
+    <dimen name="size_icon_normal">24dp</dimen>
+    <dimen name="size_icon_regular">30dp</dimen>
+    <dimen name="size_icon_medium">36dp</dimen>
+    <dimen name="size_icon_large">48dp</dimen>
+
+
+    <dimen name="size_button_width_small">100dp</dimen>
+    <dimen name="size_button_width_normal">200dp</dimen>
+    <dimen name="size_button_width_regular">250dp</dimen>
+    <dimen name="size_button_width_medium">300dp</dimen>
+
+    <dimen name="size_default_text_height_small">45dp</dimen>
+    <dimen name="size_default_text_height_regular">48dp</dimen>
+    <dimen name="size_default_text_height_medium">50dp</dimen>
+
+    <!--App Dimens-->
+    <dimen name="dimen_app_divider_line_regular">0.7dp</dimen>
+    <dimen name="dimen_app_divider_line">1dp</dimen>
+
+    <dimen name="dimen_btn_vertical_padding_very_small">5dp</dimen>
+    <dimen name="dimen_btn_vertical_padding_small">8dp</dimen>
+    <dimen name="dimen_btn_vertical_padding_regular">12dp</dimen>
+    <dimen name="dimen_btn_vertical_padding_medium">16dp</dimen>
+    <dimen name="dimen_btn_vertical_padding_large">20dp</dimen>
+    <dimen name="dimen_btn_vertical_padding_largest">24dp</dimen>
+
+    <dimen name="dimen_btn_horizontal_padding_small">10dp</dimen>
+    <dimen name="dimen_btn_horizontal_padding_regular">16dp</dimen>
+    <dimen name="dimen_btn_horizontal_padding_medium">20dp</dimen>
+    <dimen name="dimen_btn_horizontal_padding_large">24dp</dimen>
+    <dimen name="dimen_btn_horizontal_padding_largest">32dp</dimen>
+
+
+    <!--     item image size   -->
+    <dimen name="dimen_size_image">50dp</dimen>
+    <dimen name="dimen_size_image1">60dp</dimen>
+    <dimen name="dimen_size_image2">75dp</dimen>
+    <dimen name="dimen_size_image3">90dp</dimen>
+    <dimen name="dimen_size_image4">100dp</dimen>
+    <dimen name="dimen_size_image5">120dp</dimen>
+    <dimen name="dimen_size_image6">150dp</dimen>
+    <dimen name="dimen_size_image7">180dp</dimen>
+    <dimen name="dimen_size_image8">200dp</dimen>
+    <dimen name="dimen_size_image9">220dp</dimen>
+    <dimen name="dimen_size_image10">250dp</dimen>
+
+    <dimen name="size_image_border1">1dp</dimen>
+    <dimen name="size_image_border2">2dp</dimen>
+    <dimen name="size_image_border3">3dp</dimen>
+    <dimen name="size_image_border4">3dp</dimen>
+    <dimen name="size_image_border5">5dp</dimen>
+    <dimen name="size_image_border8">8dp</dimen>
+    <dimen name="size_image_border10">10dp</dimen>
+
+    <dimen name="line_spacing">3dp</dimen>
+    <dimen name="line_spacing_track">3dp</dimen>
+
+
+    <dimen name="dimen_button_text_padding_small">8dp</dimen>
+    <dimen name="dimen_button_text_padding_normal">10dp</dimen>
+    <dimen name="dimen_button_text_padding_regular">12dp</dimen>
+    <dimen name="dimen_button_text_padding_medium">15dp</dimen>
+    <dimen name="dimen_button_text_padding_large">20dp</dimen>
+
+    <dimen name="dimen_app_profile_image">120dp</dimen>
+    <dimen name="dimen_app_profile_image_mid">110dp</dimen>
+
+
+
+
+    <dimen name="dimen_ll_inside_text">5dp</dimen>
+
+</resources>

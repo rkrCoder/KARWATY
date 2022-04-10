@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">KARWATY</string>
+    <string name="product_details">Product Details</string>
+    <string name="general_information">General Information</string>
+    <string name="please_select_country_and_city">Please select country and city</string>
+    <string name="choose_your_delivery_method">Choose your Delivery Method</string>
+    <string name="product_title_in_english">Product title in English</string>
+    <string name="product_title_in_arabic">Product title in Arabic</string>
+    <string name="title">Title</string>
+    <string name="describe_your_product_in_english">Describe your product in English</string>
+    <string name="describe_your_product_in_arabic">Describe your product in Arabic</string>
+    <string name="upload_images_video">Upload Images/Video</string>
+    <string name="description">Description</string>
+    <string name="item_in_english">Item in English</string>
+    <string name="item_in_arabic">Item in Arabic</string>
+    <string name="product_location">Add product Location</string>
+    <string name="pricing_policy_methods">Pricing Policy Methods</string>
+    <string name="allow_request_from_customer">Allow Request from Customer</string>
+    <string name="negotiable_price">Negotiable Price</string>
+    <string name="complimentary">Complimentary</string>
+    <string name="fixed_price">Fixed Price</string>
+    <string name="best_price">Best Price</string>
+    <string name="sale_price">Sale Price</string>
+    <string name="customer_to_pickup">Customer to Pickup</string>
+    <string name="owner_will_deliver">Owner will Deliver</string>
+    <string name="free_of_charge">Free of Charge</string>
+    <string name="insert_price">Insert Price</string>
+    <string name="i_will_charge_delivery_fees">I will charge Delivery Fees</string>
+    <string name="third_party_delivery">Third party Delivery</string>
+    <string name="delivery_companies">Delivery Companies</string>
+    <string name="karwaty_pickup_amp_drop_hub"><![CDATA[KARWATY pickup & drop Hub]]></string>
+    <string name="pickup_amp_drop_off_points"><![CDATA[Pickup & drop off Points]]></string>
+    <string name="delivery_remarks">Delivery Remarks</string>
+    <string name="remarks_in_english">Remarks in English</string>
+    <string name="remarks_in_arabic">Remarks in Arabic</string>
+    <string name="post_appearance">Post Appearance</string>
+    <string name="post_appearance_appearance_for_customer">Post Appearance appearance for customer</string>
+    <string name="_90_days">90 Days</string>
+    <string name="select_your_post_appearance_preference">Select your post appearance preference</string>
+    <string name="_60_days">60 Days</string>
+    <string name="when_is_your_available">When is your available ?</string>
+    <string name="from_date">From Date</string>
+    <string name="next">Next</string>
+    <string name="enter_distance">Enter distance</string>
+    <string name="from">FROM</string>
+    <string name="to">TO</string>
+    <string name="total_quantity">Total Quantity</string>
+    <string name="length">Length</string>
+    <string name="width">Width</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="upload_images_amp_videos"><![CDATA[Upload Images & videos]]></string>
+    <string name="attach_a_file">Attach a file</string>
+
+    <string-array name="VehicleInformation1">
+        <item>Vehicle Information 01</item>
+    </string-array>
+
+    <string-array name="VehicleInformation2">
+        <item>Vehicle Information 02</item>
+    </string-array>
+
+    <string-array name="ConvComf">
+        <item>Convenience &amp; Comfort</item>
+    </string-array>
+
+    <string-array name="Safety">
+        <item>Safety</item>
+    </string-array>
+
+    <string-array name="EntertainmentTechnology">
+        <item>Entertainment &amp; Technology</item>
+    </string-array>
+
+    <string-array name="VehicleInformation3">
+        <item>Vehicle Information 03</item>
+    </string-array>
+
+    <string-array name="Odo">
+        <item>Odometer</item>
+    </string-array>
+
+    <string-array name="Range">
+        <item>Range</item>
+    </string-array>
+</resources>
